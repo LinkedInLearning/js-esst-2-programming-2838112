@@ -1,0 +1,1 @@
+document.getElementById("info").innerHTML = document.images[1].src;

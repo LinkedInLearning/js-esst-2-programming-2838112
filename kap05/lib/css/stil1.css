@@ -1,0 +1,24 @@
+body {
+    background: lightgray;
+}
+
+.k1 {
+    background: red;
+    color: white;
+    text-align: center;
+    min-height: 20px;
+}
+
+#bild {
+    width: 400px;
+}
+#info{
+    background: white;
+    color:red;
+    text-align:center;
+    font-size: 42px; 
+    width:800px;
+    margin:auto;
+    border-radius: 5px;
+    box-shadow: 5px 5px #111;
+}

@@ -1,0 +1,1 @@
+Das ist <strong>Klartext</strong>, <i>der</i> mit <span style="background:red">HTML-Tags</span> durchzogen ist. Oder auch <unbekannt>unbekannte<unbekannt> Tags.
