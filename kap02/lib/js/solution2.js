@@ -4,7 +4,8 @@
 let numbers = [1, 2, 3, 4, 5];
 
 /*
-Die folgenden Schritte 1 - 3 sollen durch Methodenverkettung als eine Anweisung durchgeführt werden. Dabei kann jeweils die Lambda-Notation verwendet werden.
+Die folgenden Schritte 1 - 3 sollen durch Methodenverkettung als eine Anweisung durchgeführt werden. 
+Dabei kann jeweils die Lambda-Notation verwendet werden.
 */
 let result = numbers.map(num => num * 2)  // 1. Jedes Element im Array soll vom Wert verdoppelt werden 
 .filter(num => num > 5) // 2. Danach filtern aller Zahlen > 5 und Rückgabe des Ergebnisses
